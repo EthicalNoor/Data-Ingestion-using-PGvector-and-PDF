@@ -1,0 +1,14 @@
+# Document Loader System
+
+This repository contains a system for loading various document types like CSV, HTML, JSON, PDF, TXT, and APIs. It uses a factory design pattern and follows SOLID principles for scalability and clean architecture.
+
+## Supported Document Types
+
+- CSV
+- HTML
+- JSON
+- PDF
+- TXT
+- API
+
+For usage and implementation, refer to the `document_loader.ipynb` file.
